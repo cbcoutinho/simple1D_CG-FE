@@ -9,3 +9,4 @@ Which has the known solution of:
 
 Testing the model with an odd number of elements produces the correct result, as shown here with 
 
+http://i.stack.imgur.com/Qo0ab.png
